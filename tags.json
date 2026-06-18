@@ -1,0 +1,648 @@
+{
+    "total": 22,
+    "tagUIDTOS": [
+        {
+            "id": 7790699,
+            "uuid": "520bc97f-3ade-4183-bef9-9b57fe7b9401",
+            "name": "Passive Sensor",
+            "scope": "USER",
+            "reservedType": "PASSIVE_SCANNER_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1687849200000,
+            "updated": 1729771890000
+        },
+        {
+            "id": 7797630,
+            "uuid": "78a58151-ad9d-46b9-bd1c-a18f784564cb",
+            "name": "EASM",
+            "scope": "USER",
+            "reservedType": "EASM_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "criticalityScore": 3,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1687787987000,
+            "updated": 1729771975000
+        },
+        {
+            "id": 7514812,
+            "uuid": "16a49616-2e48-4ae8-ba60-93b9c265a7fc",
+            "name": "Business Units",
+            "scope": "USER",
+            "reservedType": "BUSINESS_UNIT_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "updatedBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "entityTagInfoSet": [],
+            "created": 1576666740000,
+            "updated": 1576666740000
+        },
+        {
+            "id": 7514814,
+            "uuid": "aaed251d-4215-43ee-8732-fd4a6274ac24",
+            "name": "Asset Groups",
+            "scope": "USER",
+            "reservedType": "ASSET_GROUP_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "updatedBy": {
+                "username": "sgesp_cb",
+                "firstname": "Claudio",
+                "lastname": "Bocci",
+                "id": 340392
+            },
+            "entityTagInfoSet": [],
+            "created": 1577095440000,
+            "updated": 1582296801000
+        },
+        {
+            "id": 7811027,
+            "uuid": "a1f06987-71d1-4016-816f-fe8a2d9bc619",
+            "name": "EASM_RGS",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -65281
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "dynamicTagRule": "asset.domain:\"rgs.mef.\"",
+            "dynamicTagEngine": "GLOBAL_ASSET_VIEW",
+            "createdBy": {
+                "username": "sgesp_at1",
+                "firstname": "Alessandro",
+                "lastname": "Todini",
+                "id": 363390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "reevalState": "COMPLETE",
+            "entityTagInfoSet": [],
+            "created": 1689245012000,
+            "updated": 1729771939000,
+            "lastReevalDate": 1689247717000
+        },
+        {
+            "id": 7517814,
+            "uuid": "947b91cd-12b6-48b4-9570-2cf875ae1478",
+            "name": "Asset Search Tags",
+            "scope": "USER",
+            "reservedType": "ASSET_SEARCH_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -65536
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1580134074000,
+            "updated": 1651136682000
+        },
+        {
+            "id": 7618780,
+            "uuid": "9fce623d-20b7-44dc-bef4-d5baefd93bd1",
+            "name": "Datacenter",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -4937770
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "createdBy": {
+                "username": "sgesp_gc2",
+                "firstname": "Giuseppe",
+                "lastname": "Conti",
+                "id": 344393
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1648236583000,
+            "updated": 1729772208000
+        },
+        {
+            "id": 8028225,
+            "uuid": "1e7b52b7-b31b-4ba5-bbf1-9a09290a5f40",
+            "name": "EASM Confidence Low",
+            "scope": "USER",
+            "reservedType": "EASM_CONFIDENCE_LOW_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "criticalityScore": 3,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1749481404000,
+            "updated": 1749481404000
+        },
+        {
+            "id": 8028227,
+            "uuid": "345a74bf-600c-4184-9feb-b1a1ac0f6d84",
+            "name": "EASM Confidence High",
+            "scope": "USER",
+            "reservedType": "EASM_CONFIDENCE_HIGH_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "criticalityScore": 3,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1749481404000,
+            "updated": 1749481404000
+        },
+        {
+            "id": 7534424,
+            "uuid": "eaa47815-617c-43a4-b3bf-49533ca7b5fc",
+            "name": "Manuali",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "description": "Tag statico per racchiudere i servizi erogati verso i clienti Sogei",
+            "display": {
+                "backgroundColor": -1282048
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "createdBy": {
+                "username": "sgesp_cb",
+                "firstname": "Claudio",
+                "lastname": "Bocci",
+                "id": 340392
+            },
+            "updatedBy": {
+                "username": "sgesp_cb",
+                "firstname": "Claudio",
+                "lastname": "Bocci",
+                "id": 340392
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1618211015000,
+            "updated": 1637859996000
+        },
+        {
+            "id": 7671561,
+            "uuid": "5038c0e2-5710-4464-913d-3077512669a6",
+            "name": "DMZ",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -13408513
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "criticalityScore": 4,
+            "createdBy": {
+                "username": "sgesp_gc2",
+                "firstname": "Giuseppe",
+                "lastname": "Conti",
+                "id": 344393
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1656078143000,
+            "updated": 1689345667000
+        },
+        {
+            "id": 7797631,
+            "uuid": "a4f0dd73-042f-4ca3-be7e-80c998015189",
+            "name": "Unmanaged",
+            "scope": "USER",
+            "reservedType": "UNMANAGED_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1687787987000,
+            "updated": 1729771997000
+        },
+        {
+            "id": 7845230,
+            "uuid": "6d7c80e6-cc2c-471b-87f6-711820775c6a",
+            "name": "Tag Set",
+            "scope": "USER",
+            "reservedType": "TAG_SET_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": true,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "createdBy": {
+                "username": "sgesp_mc",
+                "firstname": "Mattia",
+                "lastname": "Calzolai",
+                "id": 353401
+            },
+            "updatedBy": {
+                "username": "sgesp_mc",
+                "firstname": "Mattia",
+                "lastname": "Calzolai",
+                "id": 353401
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1693831093000,
+            "updated": 1693831093000
+        },
+        {
+            "id": 7592354,
+            "uuid": "d7f66e42-805a-56f9-e053-2901fc0a7593",
+            "name": "Default Dashboard Access Tag",
+            "scope": "USER",
+            "reservedType": "DEFAULT_DASHBOARD_ACCESS_TAG",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1644824000000,
+            "updated": 1729772259000
+        },
+        {
+            "id": 7617179,
+            "uuid": "94539836-c252-4c5d-83c8-b923f5008bdf",
+            "name": "CMDB Sync",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16711936
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "createdBy": {
+                "username": "sgesp_au",
+                "firstname": "API",
+                "lastname": "User",
+                "id": 344400
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1648123255000,
+            "updated": 1729772166000
+        },
+        {
+            "id": 7852228,
+            "uuid": "1363b5b1-0205-4d7f-bed9-930b1784bdb9",
+            "name": "DNS SINKHOLE",
+            "scope": "USER",
+            "reservedType": "DNS_SINKHOLE_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "criticalityScore": 3,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1693839513000,
+            "updated": 1729771900000
+        },
+        {
+            "id": 8028226,
+            "uuid": "6d198797-d669-47f3-b414-59ebf67c7d8b",
+            "name": "EASM Confidence Medium",
+            "scope": "USER",
+            "reservedType": "EASM_CONFIDENCE_MEDIUM_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "criticalityScore": 3,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1749481404000,
+            "updated": 1749481404000
+        },
+        {
+            "id": 8028417,
+            "uuid": "d23817e1-bebb-455e-92f9-890239cf796d",
+            "name": "SOGEI",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "createdBy": {
+                "username": "sgesp_at1",
+                "firstname": "Alessandro",
+                "lastname": "Todini",
+                "id": 363390
+            },
+            "updatedBy": {
+                "username": "sgesp_at1",
+                "firstname": "Alessandro",
+                "lastname": "Todini",
+                "id": 363390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1749481518000,
+            "updated": 1749481518000
+        },
+        {
+            "id": 7565412,
+            "uuid": "24503d27-de7a-44f9-b50c-cbe6ec540895",
+            "name": "Cloud Agent",
+            "scope": "USER",
+            "reservedType": "QAGENT_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -13076963
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": true,
+            "updatedBy": {
+                "username": "sgesp_mc",
+                "firstname": "Mattia",
+                "lastname": "Calzolai",
+                "id": 353401
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1637220044000,
+            "updated": 1655390983000
+        },
+        {
+            "id": 7797632,
+            "uuid": "bfc137ee-857f-4b7b-9777-1602e85a6c2a",
+            "name": "Shodan",
+            "scope": "USER",
+            "reservedType": "SHODAN_ROOT",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "criticalityScore": 3,
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1687787987000,
+            "updated": 1729771984000
+        },
+        {
+            "id": 7811829,
+            "uuid": "4e0ad1d0-93f6-4a2e-b70e-973c494d14d9",
+            "name": "Internet Facing Assets",
+            "scope": "USER",
+            "reservedType": "INTERNET_FACING_ASSETS",
+            "metaDataLocked": true,
+            "hierarchyDataLocked": false,
+            "display": {
+                "backgroundColor": -16777216
+            },
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "dynamicTagRule": "1.0.0.0-9.255.255.255,11.0.0.0-100.63.255.255,100.128.0.0-126.255.255.255,128.0.0.0-169.253.255.255,169.255.0.0-172.15.255.255,172.32.0.0-191.255.255.255,192.0.1.0-192.0.1.255,192.0.3.0-192.88.98.255,192.88.100.0-192.167.255.255,192.169.0.0-198.17.255.255,198.20.0.0-198.51.99.255,198.51.101.0-203.0.112.255,203.0.114.0-223.255.255.255",
+            "dynamicTagEngine": "NETWORK_RANGE",
+            "createdBy": {
+                "username": "#SYSTEM-USER#@Sogei Spa_127021",
+                "firstname": "SYSTEM",
+                "lastname": "USER",
+                "id": 340390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "reevalState": "COMPLETE",
+            "entityTagInfoSet": [],
+            "created": 1690224708000,
+            "updated": 1729771910000,
+            "lastReevalDate": 1690225753000
+        },
+        {
+            "id": 8102913,
+            "uuid": "79504431-5f67-4480-aedc-de58ab3c7342",
+            "name": "srfsrf",
+            "scope": "USER",
+            "metaDataLocked": false,
+            "hierarchyDataLocked": false,
+            "display": {},
+            "inScope": true,
+            "favorite": false,
+            "hasChildren": false,
+            "createdBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "updatedBy": {
+                "username": "sgesp_am",
+                "firstname": "Alessio",
+                "lastname": "Madonia",
+                "id": 347390
+            },
+            "isNonAgBuRootTag": true,
+            "entityTagInfoSet": [],
+            "created": 1779266349000,
+            "updated": 1779266349000
+        }
+    ]
+}

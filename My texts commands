@@ -183,3 +183,11 @@ curl -k --ssl-no-revoke -u "Username:Password" ^
 curl: (3) URL rejected: Bad hostname
 
 C:\Sogie>-o Export-OP.xml
+
+
+
+curl --ssl-no-revoke ^
+-u "Username:Password" ^
+-H "X-Requested-With:curl" ^
+"https://qualysguard.qg.sogei.it/api/3.0/fo/subscription/option_profile/?action=export" ^
+> Export-OP.xml
